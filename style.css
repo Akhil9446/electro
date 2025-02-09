@@ -105,7 +105,7 @@ body {
 /* hero section */
 .hero {
     height: 100vh; /* Full viewport height */
-    background-image: url('/images/609.jpg'); /* Replace with your image path */
+    background-image: url('./images/609.jpg'); /* Replace with your image path */
     background-size: cover; /* Cover the entire area */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent image repetition */
@@ -145,7 +145,7 @@ body {
   .main-section {
     min-height: 100vh; /* Makes sure the section fills the viewport */
     padding: 60px 20px;
-    background: url('/images/347317299795.jpg') no-repeat center center/cover; /* Add your new background image */
+    background: url('./images/347317299795.jpg') no-repeat center center/cover; /* Add your new background image */
     color: white; /* Adjust text color to stand out against the background */
     text-align: center;
     position: relative;
@@ -212,7 +212,7 @@ body {
 .events-section {
   padding: 40px 20px;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(30, 30, 30, 0.8)),
-              url('/images/347317299795.jpg') ;
+              url('./images/347317299795.jpg') ;
   color: white;
 }
 
